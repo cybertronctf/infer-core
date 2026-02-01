@@ -1,1 +1,0 @@
-print("infer-core FIX2")
