@@ -1,1 +1,1 @@
-print("infer-core INSERT")
+print("infer-core UPDATE")
